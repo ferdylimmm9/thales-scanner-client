@@ -1,5 +1,5 @@
 {
-  "name": "@thales-bridge/scanner-client",
+  "name": "@ferdylimmm9/thales-scanner-client",
   "version": "0.0.0-development",
   "description": "React hook for the Thales QS2000 scanner bridge — live MRZ/passport/ID scan results over WebSocket, fully typed with Zod.",
   "keywords": [
@@ -16,6 +16,9 @@
     "zod"
   ],
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/ferdylimmm9/thales-scanner-client.git"

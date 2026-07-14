@@ -1,4 +1,4 @@
-# @thales-bridge/scanner-client
+# @ferdylimmm9/thales-scanner-client
 
 React hook for the **Thales QS2000 scanner bridge** — live MRZ / passport / ID
 scan results over WebSocket, fully typed with [Zod](https://zod.dev). This is
@@ -18,7 +18,7 @@ past a contract version, check that doc first.
 ## Install
 
 ```bash
-npm install @thales-bridge/scanner-client zod
+npm install @ferdylimmm9/thales-scanner-client zod
 # or: pnpm add / yarn add
 ```
 
@@ -28,7 +28,7 @@ bundle its own copies.
 ## Usage
 
 ```tsx
-import { useDocumentScanner } from '@thales-bridge/scanner-client'
+import { useDocumentScanner } from '@ferdylimmm9/thales-scanner-client'
 
 function ScanPanel() {
   const { connection, phase, lastScan, error, clearScan } = useDocumentScanner({
