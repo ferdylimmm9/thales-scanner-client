@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/ferdylimmm9/thales-scanner-client/compare/v1.0.0...v1.0.1) (2026-07-14)
+
+
+### Bug Fixes
+
+* correct npm scope to [@ferdylimm9](https://github.com/ferdylimm9) — real npm username, not GitHub's ferdylimmm9 ([f86c507](https://github.com/ferdylimmm9/thales-scanner-client/commit/f86c507d19c7b98f6e604f21ff94938695c23666))
+
 # 1.0.0 (2026-07-14)
 
 
