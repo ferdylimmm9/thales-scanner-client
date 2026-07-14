@@ -1,6 +1,6 @@
 {
   "name": "@ferdylimmm9/thales-scanner-client",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "description": "React hook for the Thales QS2000 scanner bridge — live MRZ/passport/ID scan results over WebSocket, fully typed with Zod.",
   "keywords": [
     "thales",
@@ -35,7 +35,9 @@
       "require": "./dist/index.cjs"
     }
   },
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "sideEffects": false,
   "scripts": {
     "build": "tsup",
