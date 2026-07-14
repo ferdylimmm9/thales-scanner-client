@@ -56,7 +56,7 @@ export interface UseDocumentScannerOptions {
 
 /**
  * Connects to a thales-scanner-bridge instance (see
- * https://github.com/REPLACE_ME/thales-scanner-bridge) and surfaces reader
+ * https://github.com/ferdylimmm9/thales-scanner-bridge) and surfaces reader
  * state + scan results to React.
  *
  * The bridge auto-triggers on document placement, so the client sends no

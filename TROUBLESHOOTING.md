@@ -2,7 +2,7 @@
 
 Symptoms as seen from `useDocumentScanner`'s return values in your React app.
 For bridge-side / kiosk PC issues, see
-[`thales-scanner-bridge`'s README](https://github.com/REPLACE_ME/thales-scanner-bridge#readme)
+[`thales-scanner-bridge`'s README](https://github.com/ferdylimmm9/thales-scanner-bridge#readme)
 and its `setup.ps1 -Doctor` diagnostic.
 
 | Symptom | Likely cause | Fix |

@@ -2,7 +2,7 @@
 
 React hook for the **Thales QS2000 scanner bridge** — live MRZ / passport / ID
 scan results over WebSocket, fully typed with [Zod](https://zod.dev). This is
-the client half of [`thales-scanner-bridge`](https://github.com/REPLACE_ME/thales-scanner-bridge)
+the client half of [`thales-scanner-bridge`](https://github.com/ferdylimmm9/thales-scanner-bridge)
 (the .NET service that talks to the actual scanner hardware) — install both.
 
 ```
@@ -11,7 +11,7 @@ the client half of [`thales-scanner-bridge`](https://github.com/REPLACE_ME/thale
 ```
 
 Implements **contract v1** of the bridge — see
-[`thales-scanner-bridge`'s `CONTRACT.md`](https://github.com/REPLACE_ME/thales-scanner-bridge/blob/main/CONTRACT.md)
+[`thales-scanner-bridge`'s `CONTRACT.md`](https://github.com/ferdylimmm9/thales-scanner-bridge/blob/main/CONTRACT.md)
 for the full language-neutral spec this package is built against. If you bump
 past a contract version, check that doc first.
 

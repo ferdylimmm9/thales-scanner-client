@@ -2,7 +2,7 @@ import { z } from 'zod'
 
 /**
  * Client-side implementation of the thales-scanner-bridge WebSocket contract
- * (contract v1 — see https://github.com/REPLACE_ME/thales-scanner-bridge/blob/main/CONTRACT.md).
+ * (contract v1 — see https://github.com/ferdylimmm9/thales-scanner-bridge/blob/main/CONTRACT.md).
  *
  * Every frame the bridge sends over the localhost WebSocket is one JSON
  * object matching `scannerMessageSchema`. `Contracts.cs` in the bridge repo

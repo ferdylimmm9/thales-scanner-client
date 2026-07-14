@@ -18,9 +18,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/REPLACE_ME/thales-scanner-client.git"
+    "url": "https://github.com/ferdylimmm9/thales-scanner-client.git"
   },
-  "homepage": "https://github.com/REPLACE_ME/thales-scanner-client#readme",
+  "homepage": "https://github.com/ferdylimmm9/thales-scanner-client#readme",
   "type": "module",
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
