@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/ferdylimmm9/thales-scanner-client/compare/v1.0.1...v1.0.2) (2026-07-14)
+
+
+### Bug Fixes
+
+* republish under corrected [@ferdylimm9](https://github.com/ferdylimm9) scope ([033152c](https://github.com/ferdylimmm9/thales-scanner-client/commit/033152cfb4ce9917fa181960a59ac4d373f9f111))
+
 ## [1.0.1](https://github.com/ferdylimmm9/thales-scanner-client/compare/v1.0.0...v1.0.1) (2026-07-14)
 
 
